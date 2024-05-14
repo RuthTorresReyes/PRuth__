@@ -29,7 +29,7 @@ a{
 /* Fin Boton Link */
 
 /* img */
-img{
-    
-    width: 80%;
+.container img{
+    max-width: 300px; height: auto;
 }
+
