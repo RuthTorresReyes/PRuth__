@@ -1,0 +1,89 @@
+/* Fondo */
+.principal{
+    background-color: #020912;
+}
+/* Fin Fondo */
+ 
+/* Inicio Navbar */
+.navbar {
+    background: linear-gradient(to right,  #a9d8b7, #8e9bbd); 
+    padding: 20px 0; 
+}
+/* Fin Navbar */
+
+/* Perfil */
+.color-texto {
+    color: #b0d12a ;
+    max-width: 900px; 
+    margin: 0 auto;
+    text-align: center;
+    text-justify: auto;
+}
+/* Fin Perfil */
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: #b5dac9;;
+    padding: 20px 0;
+}
+
+.aboutSection {
+    text-align: center;
+}
+
+.titleContact {
+    margin-top: 0;
+}
+
+.title_section__line {
+    width: 50px;
+    height: 2px;
+    background-color: #b0d12a;
+    margin: 10px auto;
+}
+
+.Contact {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Contact p {
+    margin: 0;
+}
+
+.Contact img {
+    border-radius: 50%;
+}
+/* Fin Footer */
+
+/* educacion */
+
+.ed h5{
+    color: #b5dac9;
+    
+}
+.ed p{
+    color: #f3f5f3;
+}
+
+
+/* Fin Educacion */
+
+/* Certificacion */
+
+.color-texto2 {
+    color: rgb(138, 229, 241); 
+    max-width: 900px; 
+    margin: 0 auto;
+    text-justify: auto;
+    text-align: center;
+    
+}
+ol {
+    list-style-type: none;
+    padding-left: 0; /* Elimina el espacio a la izquierda */
+  }
+
+/* Fin Certificaciones */

@@ -1,0 +1,60 @@
+/* Fondo */
+.principal{
+    background-color: #020912;
+}
+/* Fin Fondo */
+
+/* Inicio Navbar */
+.navbar {
+    background: linear-gradient(to right,  #a9d8b7, #8e9bbd); 
+    padding: 20px 0; 
+}
+/* Fin Navbar */
+
+/* Cards */
+
+.card-title{
+    text-align: justify;
+}
+
+.card-title{
+    text-align: center;
+}
+/* Fin Cards */
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: #b5dac9;;
+    padding: 20px 0;
+}
+
+.aboutSection {
+    text-align: center;
+}
+
+.titleContact {
+    margin-top: 0;
+}
+
+.title_section__line {
+    width: 50px;
+    height: 2px;
+    background-color: #b0d12a;
+    margin: 10px auto;
+}
+
+.Contact {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Contact p {
+    margin: 0;
+}
+
+.Contact img {
+    border-radius: 50%;
+}
+/* Fin Footer */
