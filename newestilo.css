@@ -18,18 +18,19 @@ h3{
 /* Fin Presentacion */
  
 /* Boton de Link */
-#button{
+.neon-button {
     border-color:#98dac9 ;
     color: #b5dac9;
+   
 }
+
 a{
    color: #b5dac9;
    text-decoration: none;
 }
+
+
 /* Fin Boton Link */
 
-/* img */
-.container img{
-    max-width: 300px; height: auto;
-}
+
 
