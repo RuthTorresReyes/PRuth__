@@ -1,8 +1,4 @@
-/* Fondo */
-.principal{
-    background-color: #020912;
-}
-/* Fin Fondo */
+
 
 /* Texto Presentacion */
 h1{
@@ -16,6 +12,13 @@ h3{
     color: #b5dac9;
 }
 /* Fin Presentacion */
+
+/* Fondo */
+.principal{
+    background-color: #020912;
+}  
+
+/* Fin Fondo */
  
 /* Boton de Link */
 #button{
