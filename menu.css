@@ -1,0 +1,103 @@
+/* Fondo */
+.principal{
+    background-color: #020912;
+}
+/* Fin Fondo */
+
+/* Inicio Navbar */
+.navbar {
+    background: linear-gradient(to right,  #a9d8b7, #8e9bbd); 
+    padding: 20px 0; 
+}
+/* Fin Navbar */
+ 
+/* Perfil */
+.color-texto {
+    color: #b0d12a; 
+    max-width: 900px; 
+    margin: 0 auto;
+    text-align: center;
+    text-justify: auto;
+}
+/* Fin Perfil */
+
+/* Cards */
+.card-title{
+    text-align: justify;
+}
+
+.card-title{
+text-align: center;
+}
+/* Fin Cards */
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: #b5dac9;
+    padding: 20px 0;
+}
+
+.aboutSection {
+    text-align: center;
+}
+
+.titleContact {
+    margin-top: 0;
+}
+
+.title_section__line {
+    width: 50px;
+    height: 2px;
+    background-color: #b0d12a;
+    margin: 10px auto;
+}
+
+.Contact {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Contact p {
+    margin: 0;
+}
+
+.Contact img {
+    border-radius: 50%;
+}
+/* Fin Footer */
+
+/* Banner */
+.banner {
+    max-width: 80%; 
+    margin: auto; 
+
+}
+
+.banner img {
+    max-width: 100%;
+    height: auto;
+    display: block; 
+    margin: auto; 
+    mask-image: linear-gradient(to bottom,
+        #020912 80%, transparent
+    );
+}
+/* Fin Banner */
+
+/* Proyectos */
+
+.titleContacts {
+    color: #b0d12a;
+    margin-top: 0;
+    padding: 20px 0;
+    justify-content: center;
+
+}
+
+/* p */
+
+.ed p{
+    color: #f3f5f3;
+}

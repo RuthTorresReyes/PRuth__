@@ -1,0 +1,27 @@
+/* Fondo */
+.principal{
+    background-color: #020912;
+}
+/* Fin Fondo */
+
+/* Texto Presentacion */
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: #b5dac9;
+}
+h3{
+    font-family: sans-serif;
+    color: #b5dac9;
+}
+/* Fin Presentacion */
+ 
+/* Boton de Link */
+#button{
+    border-color:#98dac9 ;
+    color: #b5dac9;
+}
+a{
+   color: #b5dac9;
+   text-decoration: none;
+}
+/* Fin Boton Link */
