@@ -1,6 +1,9 @@
 /* Fondo */
 .principal{
     background-color: #020912;
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
 /* Fin Fondo */
 
@@ -18,10 +21,9 @@ h3{
 /* Fin Presentacion */
  
 /* Boton de Link */
-.neon-button {
+.button {
     border-color:#98dac9 ;
     color: #b5dac9;
-   
 }
 
 a{
@@ -31,6 +33,49 @@ a{
 
 
 /* Fin Boton Link */
+.content{
+   
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    height: 100vh;
+    width: 100%;
+    padding: 10px;
+}
+
+.info{
+    text-align: center;
+    align-items: center;
+}
+
+.img{
+   
+    flex-direction: column; /* Para alinear verticalmente el contenido */
+    background-size: cover;
+    background-position: center;
+    background-image: url(img/Ruti.jpeg);
+    height: 400px;
+    width: 300px;
+   
+} 
 
 
 
+@media (max-width:570px){
+    .info{
+        display: flex; /* Agregar display: flex */
+        flex-direction: column; /* Para alinear verticalmente el contenido */
+        justify-content: center; /* Centrar verticalmente */
+        align-items: center; /* Centrar horizontalmente */
+        position: absolute;
+        top: 70%; /* Centrar verticalmente */
+        left: 50%; /* Centrar horizontalmente */
+        transform: translate(-50%, -50%); 
+    }
+
+     .img{
+       background-image: none;
+    } 
+    
+}
