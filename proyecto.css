@@ -58,3 +58,9 @@
     border-radius: 50%;
 }
 /* Fin Footer */
+
+.imagen{
+    width: 350px;
+    height: 350px;
+    object-fit: contain;
+}
